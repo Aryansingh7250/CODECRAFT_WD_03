@@ -1,26 +1,26 @@
-# Stopwatch Web App
+# 🎮 Tic-Tac-Toe Web App
 
-A simple, responsive Stopwatch Web App built with HTML, CSS, and JavaScript. This app allows users to start, stop, reset, and track the elapsed time with a clear and interactive interface.
+A simple, fun, and interactive Tic-Tac-Toe game built using **HTML**, **CSS**, and **JavaScript**. Challenge a friend and take turns to see who can align three symbols in a row first!
 
-## Features
+## 🧩 Features
 
-- Start, stop, and reset the stopwatch.
-- Display the time in a formatted manner (hours, minutes, seconds, milliseconds).
-- Simple and intuitive user interface.
-- Responsive design for both desktop and mobile views.
+- Two-player game (Player X and Player O)
+- Dynamic game board updates
+- Win detection with message display
+- Draw detection
+- Reset game functionality
+- Responsive design for all screen sizes
 
-## Technologies Used
+## 📸 Screenshot
 
-- **HTML**: Structure of the app.
-- **CSS**: Styling for a clean and modern look.
-- **JavaScript**: For functionality like starting, stopping, and resetting the stopwatch.
+![Tic Tac Toe Screenshot](screenshot.png)  
+*Replace this with your actual screenshot image if available*
 
-## Demo
+## 🛠️ Built With
 
-You can view a live demo of the Stopwatch Web App here: [Demo Link]
+- **HTML5** – Structure of the game
+- **CSS3** – Styling and layout
+- **JavaScript** – Game logic and interactivity
 
-## Installation
+## 📂 Project Structure
 
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/yourusername/stopwatch-web-app.git
